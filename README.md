@@ -1,6 +1,6 @@
-## My system: <system name from PROJECT.md>
+AMBAGLUMINA: Donation Drive Tracker
 
-**Developer:** <HoneyJoyMila> (<BSIT-3E>)
+Developer: (HoneyJoyMila) BSIT-3E
 
 ### The problem in my own words
 2 to 4 sentences: who has the problem, what goes wrong today, and what your system will fix.
